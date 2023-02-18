@@ -1,8 +1,8 @@
 ---
-name: Things I Don't Understand
+name: " I Don't Know"
 about: This is for adding issues that you don't understand
 title: ''
-labels: Things I Don't Understand
+labels: I Don't Know
 assignees: ''
 
 ---
