@@ -19,7 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we don't understand
 1. I don't know Linux Directory listing 
 2. I don't know Teraform 
-3. GIT status[1]
+3. I don't know Git Stash
 #### Things we want to know next**
 1.  I Want to know git pull
 2.  I want to know Elastic Search Indexing
