@@ -22,7 +22,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3. I don't know Git Stash
 #### Things we want to know next**
 1.  I Want to know git pull
-2.  I want to know Elastic Search Indexing
+2.  I want to know Elastic Search 
 3.  I want to know Cloud deployment
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
