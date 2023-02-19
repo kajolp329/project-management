@@ -15,7 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  I Know Python Print
 2.  I know how to install docker  
-3.  Docker Installation[1]
+3.  I Know git status
 #### Things we don't understand
 1. I don't know how to do git stash 
 2. GIt pull[2]
